@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ProgrammingQuizProject</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_start_quiz">StartQuizActivity</string>
+    <string name="title_activity_rules">RulesActivity</string>
+    <string name="title_activity_quiz_start">QuizStartActivity</string>
+    <string name="title_activity_quiz_test">QuizTestActivity</string>
+
+</resources>
